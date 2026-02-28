@@ -2,4 +2,4 @@ def add(a,b):
     c = a+b
     print("addition of a & b",c)
 
-add()
+res =add(2,4)
