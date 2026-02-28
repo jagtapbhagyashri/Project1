@@ -10,4 +10,5 @@ def subs(a,b):
     c =a-b
     print("substraction of two numbers",c)
 
-subs(5,2)
+res1 =subs(5,2)
+print(res1)
