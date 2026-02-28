@@ -1,7 +1,5 @@
+def add(a,b):
+    c = a+b
+    print("addition of a & b",c)
 
-print("hiiii")
-
-print("*******hii**********")
-print("this is my code")
-
-print("helooooooooo")
+add()
